@@ -1,0 +1,15 @@
+- [ ] establish preferred file architecture
+  - [ ] html
+  - [ ] css
+  - [ ] js
+  - [ ] images
+  - [ ] other
+- [ ] configure tooling
+  - [ ] jekyll
+  - [ ] npm scripts
+  - [ ] gulp/webpack/browserify
+- [ ] configure site
+  - [ ] home
+  - [ ] about
+  - [ ] blog
+  - [ ] projects
