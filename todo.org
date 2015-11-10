@@ -19,15 +19,21 @@
 FIGURE OUT:
 - [ ] config
   - asset-builder?
+  - gulp-data
+  - my homebrew
+  - dotenv
 - [ ] fonts?
   https://github.com/deanhume/typography
 - [ ] icons?
   - svg -> spritesheet?
+  - iconic
   - https://github.com/colophonemes/metalsmith-icons
 - [ ] testing
   - karma?
   - pageres?
+  - navit
   - something for xbt?
+  - https://github.com/sorrycc/awesome-javascript#runner
 - [ ] incremental builds in dev
   - gulp-changed
   - gulp-newer
