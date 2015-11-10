@@ -9,8 +9,33 @@
   - [ ] jekyll
   - [ ] npm scripts
   - [ ] gulp/webpack/browserify
-- [ ] configure site
+- [ ] make pages
   - [ ] home
   - [ ] about
   - [ ] blog
   - [ ] projects
+  - [ ] colophon
+
+FIGURE OUT:
+- [ ] config
+  - asset-builder?
+- [ ] fonts?
+  https://github.com/deanhume/typography
+- [ ] icons?
+  - svg -> spritesheet?
+  - https://github.com/colophonemes/metalsmith-icons
+- [ ] testing
+  - karma?
+  - pageres?
+  - something for xbt?
+- [ ] incremental builds in dev
+  - gulp-changed
+  - gulp-newer
+  - gulp-cached
+  - gulp-remember
+- [ ] dev builds
+- [ ] metalsmith?
+- [ ] search
+  - lunr
+- [ ] custom 404
+- [ ] syntax highlighting
