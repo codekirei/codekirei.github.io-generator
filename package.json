@@ -1,0 +1,25 @@
+{
+  "name": "codekirei.github.io-generator",
+  "version": "0.1.0",
+  "description": "gulp-powered static site generator",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codekirei/codekirei.github.io-generator.git"
+  },
+  "keywords": [
+    "static",
+    "site",
+    "generator",
+    "gulp"
+  ],
+  "author": "codekirei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codekirei/codekirei.github.io-generator/issues"
+  },
+  "homepage": "https://github.com/codekirei/codekirei.github.io-generator#readme"
+}

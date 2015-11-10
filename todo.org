@@ -15,6 +15,7 @@
   - [ ] blog
   - [ ] projects
   - [ ] colophon
+- [ ] rip out the generator code into a module
 
 FIGURE OUT:
 - [ ] config
