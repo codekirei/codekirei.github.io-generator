@@ -32,8 +32,6 @@ gulpfile.js/
       gulp-size
       gulp-bump
       psi
-  - deploy
-      gulp-gh-pages
   - static (cname/robots/humans)
   - serve (local prod)
       gulp-connect?

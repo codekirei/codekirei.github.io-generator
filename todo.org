@@ -6,9 +6,23 @@
   - [ ] other
   - [ ] data
 - [ ] configure tooling
-  - [ ] jekyll
   - [ ] npm scripts
-  - [ ] gulp/webpack/browserify
+  - [ ] gulp
+    - [ ] build
+    - [ ] clean
+    - [ ] default
+    - [ ] deploy
+    - [ ] favicon
+    - [ ] feed
+    - [ ] images
+    - [ ] pages
+    - [ ] posts
+    - [ ] scripts
+    - [ ] serve
+    - [ ] sitemap
+    - [ ] static
+    - [ ] styles
+    - [ ] watch
 - [ ] make pages
   - [ ] home
   - [ ] about
