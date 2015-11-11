@@ -16,6 +16,7 @@
     - [ ] feed
     - [ ] images
     - [ ] pages
+    - [ ] pagespeed
     - [ ] posts
     - [ ] scripts
     - [ ] serve
@@ -55,7 +56,6 @@ FIGURE OUT:
   - gulp-cached
   - gulp-remember
 - [ ] dev builds
-- [ ] metalsmith?
 - [ ] search
   - lunr
 - [ ] custom 404

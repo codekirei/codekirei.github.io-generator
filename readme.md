@@ -12,7 +12,11 @@ gulpfile.js/
   general
     merge-stream
     gulp-if
+    run-sequence
+    requiredir
+    streamqueue
     lazypipe
+    sourcemaps
     minification
     gulp-rev in prod
     source maps in dev
@@ -23,71 +27,8 @@ gulpfile.js/
     browser-sync for dev
     fail hard in prod tasks; plumber dev
     gulp-useref? / gulp-processhtml? / gulp-preprocess?
+    gulp-size
     gulp-replace?
-  - watch
-  - clean
-      del
-  - build
-      gulp-filesize
-      gulp-size
-      gulp-bump
-      psi
-  - static (cname/robots/humans)
-  - serve (local prod)
-      gulp-connect?
-      express?
-  - sitemap
-      gulp-sitemap?
-  - feed
-      node-rss?
-  - favicon
-      https://github.com/audreyr/favicon-cheat-sheet
-  - images
-      gulp-responsive?
-      retina?
-      gulp-imagemin
-  - pages
-      gulp-jade
-  - posts
-      frontmatter?
-      speakingurl?
-      markdown?
-      tag page?
-      blog page?
-      minimize
-      pagination / infinite scrolling?
-      permalinks / slugs
-      reading time?
-      jade
-  - scripts
-      - something for console.log not showing in prod?
-      browserify
-      babel
-      uglifyjs2
-      velocity
-      scrollmonitor
-      headroom
-      responsive-nav
-      domready
-      picturefill
-      fastclick
-      modernizr?
-  - styles
-      gulp-csso?
-      gulp-cssimport
-      gulp-cssnext
-      mrmrs/colors
-      https://github.com/sotayamashita/awesome-css#naming-conventions--methodologies
-      corpuscss
-      sanitize.css
-      gulp-shorthand?
-      clean-css
-      myth?
-      uncss?
-      postcss?
-      autoprefixer?
-      jeet?
-      grid?
 source/
   - extras
     - CNAME       // for github url
@@ -95,6 +36,8 @@ source/
     - humans.txt  // for nerds
     - sitemap.xml // for search engines
     - feed.xml    // for feed readers
+    - crossdomain.xml
+    - browserconfig.xml
     - favicon.ico // generate all favicons
   - images        // minify and rev
   - markup        // jade/md -> html
@@ -108,7 +51,7 @@ source/
 ```
 
 good gulp examples:
-- roots/sage
 - vigetlabs/gulp-starter
+- roots/sage
 - google/web-starter-kit
 - cferdinandi/kraken
