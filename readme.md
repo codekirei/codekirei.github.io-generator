@@ -29,6 +29,11 @@ gulpfile.js/
     gulp-useref? / gulp-processhtml? / gulp-preprocess?
     gulp-size
     gulp-replace?
+    incremental builds
+    - changed
+    - newer
+    - cached
+    - remember
 source/
   - extras
     - CNAME       // for github url

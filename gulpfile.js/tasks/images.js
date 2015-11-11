@@ -1,5 +1,6 @@
 // gulp-imagemin
 // picturefill?
+// smartcrop
 // gulp-responsive
 
 // responsive image technique with media queries and background images

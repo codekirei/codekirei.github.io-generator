@@ -33,7 +33,7 @@
 - [ ] rip out the generator code into a module
 
 FIGURE OUT:
-- [ ] config
+- [ ] config + dev builds
   - asset-builder?
   - gulp-data
   - my homebrew
@@ -43,20 +43,25 @@ FIGURE OUT:
 - [ ] icons?
   - svg -> spritesheet?
   - iconic
+  - fontawesome
+  - icono
+  - open-iconic
+  - octicons
+  - ionicons
+  - devicons
+  - http://elijahmanor.com/css-animated-hamburger-icon/
   - https://github.com/colophonemes/metalsmith-icons
+
 - [ ] testing
   - karma?
+  - nightmare?
   - pageres?
   - navit
   - something for xbt?
+  - gremlins
   - https://github.com/sorrycc/awesome-javascript#runner
-- [ ] incremental builds in dev
-  - gulp-changed
-  - gulp-newer
-  - gulp-cached
-  - gulp-remember
-- [ ] dev builds
-- [ ] search
-  - lunr
 - [ ] custom 404
-- [ ] syntax highlighting
+
+Inspiration:
+tobiasahlin.com/
+will-jekyll-template
