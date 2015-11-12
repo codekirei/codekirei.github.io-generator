@@ -53,8 +53,8 @@ source/
     - posts       // md posts with frontmatter
     - templates   // jade templates used by pages + posts
   - scripts       // es6 + browserify -> js
-    - blocking    // load in <header>
     - main        // load at end of <body>
+    - post        // post-specific scripts
   - styles        // stylus? -> css
 ```
 

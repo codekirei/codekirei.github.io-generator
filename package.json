@@ -21,5 +21,14 @@
   "bugs": {
     "url": "https://github.com/codekirei/codekirei.github.io-generator/issues"
   },
-  "homepage": "https://github.com/codekirei/codekirei.github.io-generator#readme"
+  "homepage": "https://github.com/codekirei/codekirei.github.io-generator#readme",
+  "dependencies": {
+    "domready": "^1.0.8",
+    "fastclick": "^1.0.6",
+    "highlight.js": "^8.9.1",
+    "lunr": "^0.6.0",
+    "s-ago": "^1.0.6",
+    "scrollmonitor": "^1.0.12",
+    "scrollreveal": "^2.3.2"
+  }
 }

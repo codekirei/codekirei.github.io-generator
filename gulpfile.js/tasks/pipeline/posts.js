@@ -13,3 +13,6 @@
  * - creation of permalinks/slugs (speakingurl?)
  * - reading time calculation and insertion
  */
+
+// create aggregate page to search posts by title/tag
+// use list.js and typeahead.js
