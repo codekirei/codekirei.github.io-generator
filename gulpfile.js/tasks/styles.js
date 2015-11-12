@@ -1,7 +1,7 @@
 // minification
   // gulp-csso
   // clean-css
-// gulp-uncss
+// purifycss
 // penthouse (critical path css)
 // parker
 

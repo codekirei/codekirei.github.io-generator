@@ -4,6 +4,7 @@
 /**
  * NEEDS TO HAVE:
  * - frontmatter parsing
+ * - trianglify for title
  * - markdown rendering
  * - jade rendering
  * - aggregate blog page generation

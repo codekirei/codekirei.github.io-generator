@@ -2,6 +2,7 @@
 // picturefill?
 // smartcrop
 // gulp-responsive
+// colorthief?
 
 // responsive image technique with media queries and background images
 // vs
@@ -10,4 +11,5 @@
    // - see #4
 
 // lazy-loading images
+  // blazy?
 // create sprite sheet?

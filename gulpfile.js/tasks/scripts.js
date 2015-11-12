@@ -14,8 +14,9 @@
 // highlight.js   -- code syntax highlighting
 // lunr.js        -- search
 // list.js        -- sorting
+// typeahead.js   -- auto-suggest
 // scrollreveal   -- animate images as they enter viewport
-// moment         -- parse dates and times
+// s-ago          -- human-friendly dates and times
 // domready       -- not sure if necessary w/ browserify?
 // modernizr      -- feature detection (not sure if necessary?)
 
@@ -24,3 +25,5 @@
 // other cool stuff
 // masonry
 // swiper
+// chart.js
+// d3
