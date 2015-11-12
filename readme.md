@@ -9,6 +9,8 @@ build/
 bin/
   - newPost
   - pagespeed (psi)
+  - size
+    - list sizes of major files in dist
   - deploy
     - bump version number
     - commit changes in dist sub-repo
@@ -17,8 +19,6 @@ gulpfile.js/
   general
     merge-stream
     gulp-if
-    run-sequence
-    requiredir
     streamqueue
     lazypipe
     sourcemaps
@@ -27,12 +27,10 @@ gulpfile.js/
     source maps in dev
     gulp-load-plugins
     gulp-filter
-    gulp-git
-    gulp-rename
+    gulp-regex-rename
     browser-sync for dev
     fail hard in prod tasks; plumber dev
     gulp-useref? / gulp-processhtml? / gulp-preprocess?
-    gulp-size
     gulp-replace?
     incremental builds
     - changed
