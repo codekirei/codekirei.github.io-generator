@@ -8,6 +8,11 @@ license
 build/
 bin/
   - newPost
+  - pagespeed (psi)
+  - deploy
+    - bump version number
+    - commit changes in dist sub-repo
+    - push dist
 gulpfile.js/
   general
     merge-stream

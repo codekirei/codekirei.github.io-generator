@@ -76,9 +76,7 @@
     // element transitions
     // hubspot drop
   // Spinners
-    // spin.js
     // spinkit
-    // css loading spinners
 
 // mrmrs/colors
 // sanitize.css
