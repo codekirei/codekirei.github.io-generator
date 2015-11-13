@@ -33,6 +33,11 @@
 - [ ] rip out the generator code into a module
 
 FIGURE OUT:
+- [-] minification
+  - [ ] images
+  - [ ] html
+  - [ ] css
+  - [X] js: uglifyjs2
 - [ ] config + dev builds
   - asset-builder?
   - gulp-data

@@ -23,12 +23,18 @@
   },
   "homepage": "https://github.com/codekirei/codekirei.github.io-generator#readme",
   "dependencies": {
+    "animate.css": "^3.4.0",
+    "colors.css": "^2.3.0",
     "domready": "^1.0.8",
     "fastclick": "^1.0.6",
     "highlight.js": "^8.9.1",
+    "hover.css": "^2.0.2",
     "lunr": "^0.6.0",
     "s-ago": "^1.0.6",
+    "sanitize.css": "^3.0.0",
     "scrollmonitor": "^1.0.12",
-    "scrollreveal": "^2.3.2"
+    "scrollreveal": "^2.3.2",
+    "spinkit": "^1.2.2",
+    "tether": "^1.1.1"
   }
 }

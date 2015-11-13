@@ -5,28 +5,9 @@
 // penthouse (critical path css)
 // parker
 
-/*
- * CSS Dialects
- * - sass/scss
- *   - corpus
- *   - compass
- *   - bourbon
- *   - refills
- *   - modular-scale
- *   - breakpoint
- *   - breakpoint-slicer
- * - stylus
- *   - jeet
- *   - roots
- *   - nib
- * - less
- *   - preboot
- * - postcss
- *   - autoprefixer
- * - cssnext
- * - myth
- * - rework
- */
+//----------------------------------------------------------
+// Post CSS
+//----------------------------------------------------------
 
 
 //----------------------------------------------------------
@@ -50,6 +31,11 @@
   // diy
   // flexbox
 // Frameworks
+  // axis (stylus)
+  // preboot (less)
+  // refills (sass)
+  // bourbon (sass)
+  // corpus (sass)
   // bootstrap
   // foundation
   // skeleton
@@ -67,20 +53,5 @@
   // crumpet
   // inuitcss
   // basscss
-// Effects
-  // Animation
-    // hover.css
-    // animate.css
-    // effekt.css
-    // csshake
-    // element transitions
-    // hubspot drop
-  // Spinners
-    // spinkit
-
-// mrmrs/colors
-// sanitize.css
-
-// ??
-// mnml.css
-// btns
+  // btns
+  // html5bp

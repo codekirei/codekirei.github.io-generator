@@ -22,21 +22,13 @@ gulpfile.js/
     streamqueue
     lazypipe
     sourcemaps
-    minification
-    gulp-rev in prod
-    source maps in dev
     gulp-load-plugins
     gulp-filter
     gulp-regex-rename
-    browser-sync for dev
     fail hard in prod tasks; plumber dev
     gulp-useref? / gulp-processhtml? / gulp-preprocess?
     gulp-replace?
-    incremental builds
-    - changed
-    - newer
-    - cached
-    - remember
+
 source/
   - extras
     - CNAME       // for github url
