@@ -36,14 +36,21 @@ FIGURE OUT:
 - [-] minification
   - [ ] images
   - [ ] html
-  - [ ] css
+  - [ ] css: gulp-minify-css
   - [X] js: uglifyjs2
+- [ ] incremental rebuilds
+  - changed
+  - newer
+  - cached
+  - remember
 - [ ] config + dev builds
   - asset-builder?
   - gulp-data
   - my homebrew
   - dotenv
+- [ ] rems vs px?
 - [ ] fonts?
+  http://blog.fontspring.com/2011/02/further-hardening-of-the-bulletproof-syntax/
   https://github.com/deanhume/typography
 - [ ] icons?
   - svg -> spritesheet?

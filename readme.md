@@ -15,6 +15,8 @@ bin/
     - bump version number
     - commit changes in dist sub-repo
     - push dist
+  - parker
+    - analyze css complexity
 gulpfile.js/
   general
     merge-stream
@@ -40,6 +42,8 @@ source/
     - browserconfig.xml
     - favicon.ico // generate all favicons
   - images        // minify and rev
+    - img         // used in image tag
+    - bg          // used in background tag
   - markup        // jade/md -> html
     - pages       // jade pages
     - posts       // md posts with frontmatter

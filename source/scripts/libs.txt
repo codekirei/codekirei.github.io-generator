@@ -1,8 +1,9 @@
 - fastclick
-- highlight.js
 - lunr.js
 - s-ago
 - domready
 - scrollmonitor
 - scrollreveal
 - tether
+
+- highlight.js (current) -> ben-eb/midas (should)

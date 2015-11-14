@@ -2,6 +2,7 @@
  * task: images
  * - convert source png/jpg to webp
  * - create responsive image sizes
+ * - create @2x for bg images
  * - minify png/jpgs
  * - lazy loading
  *   - blazy for JS image injection
