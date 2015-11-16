@@ -15,8 +15,10 @@ bin/
     - bump version number
     - commit changes in dist sub-repo
     - push dist
-  - parker
-    - analyze css complexity
+  - css-parker -- analyze css complexity
+  - css-stats -- analyze css with cssstats
+  - css-guide -- generate style guide with postcss-style-guide
+  - css-immutable -- use immutable-css to check for side effects
 gulpfile.js/
   general
     merge-stream

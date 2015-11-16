@@ -28,3 +28,7 @@
 // http://alistapart.com/article/responsive-images-in-practice
 // http://www.sitepoint.com/support-retina-displays/
    // - see #4
+
+// also consider CSS background-image, i.e. image-set? webp? retina?
+//  - postcss-at2x
+//  - webpcss
