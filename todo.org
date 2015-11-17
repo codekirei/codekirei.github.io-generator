@@ -52,6 +52,7 @@ FIGURE OUT:
 - [ ] fonts?
   http://blog.fontspring.com/2011/02/further-hardening-of-the-bulletproof-syntax/
   https://github.com/deanhume/typography
+  https://github.com/davidmerfield/typeset
 - [ ] icons?
   - svg -> spritesheet?
   - iconic
