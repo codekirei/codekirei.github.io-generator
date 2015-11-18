@@ -36,13 +36,10 @@ FIGURE OUT:
 - [-] minification
   - [ ] images
   - [ ] html
-  - [ ] css: gulp-minify-css
+  - [X] css: clean-css
   - [X] js: uglifyjs2
 - [ ] incremental rebuilds
-  - changed
   - newer
-  - cached
-  - remember
 - [ ] config + dev builds
   - asset-builder?
   - gulp-data

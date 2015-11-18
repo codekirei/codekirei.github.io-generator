@@ -22,16 +22,11 @@ bin/
 gulpfile.js/
   general
     merge-stream
-    gulp-if
     streamqueue
     lazypipe
     sourcemaps
-    gulp-load-plugins
-    gulp-filter
-    gulp-regex-rename
     fail hard in prod tasks; plumber dev
-    gulp-useref? / gulp-processhtml? / gulp-preprocess?
-    gulp-replace?
+    gulp-filter
 
 source/
   - extras

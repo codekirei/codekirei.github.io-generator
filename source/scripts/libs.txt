@@ -1,6 +1,7 @@
 - fastclick
 - lunr.js
 - s-ago
+- smooth-scroll
 - domready
 - scrollmonitor
 - scrollreveal
