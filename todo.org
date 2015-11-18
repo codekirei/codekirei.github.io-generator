@@ -55,6 +55,7 @@ FIGURE OUT:
 
 - [ ] testing
   - karma?
+  - html proofer gem equivalent
   - nightmare? / casper / slimer / phantom
   - navit
   - something for xbt?
