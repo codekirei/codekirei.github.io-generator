@@ -19,13 +19,14 @@ bin/
   - css-stats -- analyze css with cssstats
   - css-guide -- generate style guide with postcss-style-guide
   - css-immutable -- use immutable-css to check for side effects
+  - shots -- take screen shots with pageres
+  - gremlins -- gremlins.js testing
 gulpfile.js/
   general
+    asset-builder
     merge-stream
     streamqueue
     lazypipe
-    sourcemaps
-    fail hard in prod tasks; plumber dev
     gulp-filter
 
 source/

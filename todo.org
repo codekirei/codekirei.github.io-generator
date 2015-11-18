@@ -38,25 +38,16 @@ FIGURE OUT:
   - [ ] html
   - [X] css: clean-css
   - [X] js: uglifyjs2
-- [ ] incremental rebuilds
-  - newer
-- [ ] config + dev builds
-  - asset-builder?
-  - gulp-data
-  - my homebrew
-  - dotenv
+
 - [ ] rems vs px?
+
 - [ ] fonts?
   http://blog.fontspring.com/2011/02/further-hardening-of-the-bulletproof-syntax/
   https://github.com/deanhume/typography
   https://github.com/davidmerfield/typeset
+
 - [ ] icons?
   - svg -> spritesheet?
-  - iconic
-  - fontawesome
-  - icono
-  - open-iconic
-  - octicons
   - ionicons
   - devicons
   - http://elijahmanor.com/css-animated-hamburger-icon/
@@ -64,12 +55,11 @@ FIGURE OUT:
 
 - [ ] testing
   - karma?
-  - nightmare?
-  - pageres?
+  - nightmare? / casper / slimer / phantom
   - navit
   - something for xbt?
-  - gremlins
   - https://github.com/sorrycc/awesome-javascript#runner
+
 - [ ] custom 404
 
 Inspiration:
