@@ -6,5 +6,4 @@
 - scrollmonitor
 - scrollreveal
 - tether
-
-- highlight.js (current) -> ben-eb/midas (should)
+- highlight.js
