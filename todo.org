@@ -47,9 +47,7 @@ FIGURE OUT:
   https://github.com/davidmerfield/typeset
 
 - [ ] icons?
-  - svg -> spritesheet?
-  - ionicons
-  - devicons
+  - svg (fontawesome/devicons + icomoon app)
   - http://elijahmanor.com/css-animated-hamburger-icon/
   - https://github.com/colophonemes/metalsmith-icons
 
