@@ -23,7 +23,6 @@ bin/
   - gremlins -- gremlins.js testing
 gulpfile.js/
   general
-    asset-builder
     merge-stream
     streamqueue
     lazypipe
