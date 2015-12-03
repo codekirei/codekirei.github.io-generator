@@ -7,3 +7,4 @@
 - scrollreveal
 - tether
 - highlight.js
+- bezier-easing (for animation)
